@@ -15,6 +15,12 @@ const Experience = () => {
           <h2 className="text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <ResumeCard
+            title="Node JS Developer"
+            subTitle="MONET NETWORKS Pvt. Ltd.- (MARCH-14-2021 - APRIL-31-2022)"
+            result="Gurugram"
+            des="Here I worked as a Node JS Developer and here I used to make RESTFull API using NodeJS using SQL and NO-SQL DataBases"
+          />
           <ResumeCard
             title="Associate Web Developer"
             subTitle="AAPNA INFOTECH Pvt. Ltd.- (DEC-2021 - OCT-2022)"
