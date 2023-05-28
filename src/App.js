@@ -20,6 +20,7 @@ function App() {
         <Projects />
         <Resume />
         {/* <Testimonial /> */}
+        <br></br>
         <Contact />
         <Footer />
         <FooterBottom />
