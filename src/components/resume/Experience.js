@@ -17,9 +17,21 @@ const Experience = () => {
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
         <ResumeCard
             title="Node JS Developer"
-            subTitle="MONET NETWORKS Pvt. Ltd.- (MARCH-14-2021 - APRIL-31-2022)"
+            subTitle="Elite Mindz Pvt Ltd.- (May-15-2023 - PRESENT)"
+            result="New Delhi"
+            des="Here I working as a Node JS Backend Developer and here I used to make RESTFull API using NodeJS using SQL and NO-SQL DataBases Working on DQS Project"
+          />
+        <ResumeCard
+            title="Node JS Developer"
+            subTitle="MONET NETWORKS Pvt. Ltd.- (MARCH-14-2023 - APRIL-31-2023)"
             result="Gurugram"
-            des="Here I worked as a Node JS Developer and here I used to make RESTFull API using NodeJS using SQL and NO-SQL DataBases"
+            des="Here I worked as a Node JS Developer and here I used to make RESTFull API using NodeJS using SQL and NO-SQL DataBases Worked on EEMO Project "
+          />
+          <ResumeCard
+            title="Freelencing"
+            subTitle="Freelencer.- (DEC-2021 - OCT-2022)"
+            result="WFH"
+            des="worked as a MERN Full Stack Web developer where is used to make UI using ReactJS and RESTFull API using NodeJS using SQL and NO-SQL DataBases"
           />
           <ResumeCard
             title="Associate Web Developer"
